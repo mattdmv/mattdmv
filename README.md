@@ -2,7 +2,7 @@
 
 - 🔭 Working as a Mechanical Engineer in the Automotive Industry
 - ⚡ Interested in: Artificial Intelligence, Machine Learning & Deep Learning, Data Science, Cloud Computing, Blockchain
-- 🌱 Currently learning React, Next.js & Solidity
+- 🌱 Currently learning React, Next.js, Solidity, Docker & Kubernetes
 - ✨ Contact me: matijadomovic.official@gmail.com
 
 <!--
