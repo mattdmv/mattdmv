@@ -3,7 +3,7 @@
 - 🔭 Working as a Mechanical Engineer in the Automotive Industry
 - ⚡ Interested in: Artificial Intelligence, Machine Learning & Deep Learning, Data Science, Cloud Computing, Blockchain
 - 🌱 Currently learning React, Next.js, Solidity, Docker & Kubernetes
-- ✨ Contact me: matijadomovic.official@gmail.com
+- 📫 Contact me: matijadomovic.official@gmail.com
 
 <!--
 **mattdmv/mattdmv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
