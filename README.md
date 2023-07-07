@@ -1,6 +1,6 @@
 ### Hi there, I'm Matija 👋
 
-- 🔭 Working as a Mechanical Engineer in the Automotive Industry
+- 🔭 Working as a Data Scientist in the Automotive Industry
 - ⚡ Interested in: Artificial Intelligence, Machine Learning & Deep Learning, Data Science, Cloud Computing, Blockchain
 - 🌱 Currently learning React, Next.js, Solidity, Docker & Kubernetes
 - 📫 Contact me: matijadomovic.official@gmail.com
